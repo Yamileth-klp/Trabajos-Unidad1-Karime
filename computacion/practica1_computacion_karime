@@ -1,0 +1,47 @@
+# Ejemplo de variables
+print (nombre) = ¨Ana¨
+print (edad) = 25
+print (estatura) = 1.68
+print (estudiante) = True
+print (edad) = 25
+print (año) = 2023
+print (puntaje) = -10
+pi = 3.1416
+precio = 19.99
+temperatura = -5.5
+nombre = "Carlos"
+mensaje = 'Hola, ¿cómo estás?'
+direccion = "Calle Falsa 123"
+es_estudiante = True
+tiene_descuento = False
+mayor_de_edad = True
+nombre_usuario = "Ana"
+contador1 = 10
+precio_total = 99.99
+es_activo = True
+1nombre = "Ana"       # No puede comenzar con número
+precio-total = 99.99  # No puede contener guiones
+if = 10               # No puede ser palabra reservada
+# Ejemplos de uso de type()
+elemento1 = 42
+elemento2 = 3.14
+elemento3 = "Hola"
+elemento4 = True
+
+print(type(elemento1))  # 
+print(type(elemento2))  # 
+print(type(elemento3))  # 
+print(type(elemento4))  # 
+# Ejemplo:
+nombre = "Ana"
+print(nombre, type(nombre))
+# Para convertir una cadena a entero:
+numero = int("123")
+resultado = 25.6789
+print(f"{resultado:.2f}")  # Muestra: 25.68
+=== INFORMACIÓN PERSONAL ===
+Nombre: [nombre]
+Edad: [edad] años
+Ciudad: [ciudad]
+Profesión: [profesión]
+=============================
