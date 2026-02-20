@@ -1,7 +1,7 @@
 echo "# Trabajos-Unidad1-Karime" >> README.md 
 git init 
 git add .
-git commit -m "primer commit" 
+git commit -m "practica4 karime" 
 git branch -M main 
 git remote add origin https://github.com/Yamileth-klp/Trabajos-Unidad1-Karime.git
 git push -f origin main
